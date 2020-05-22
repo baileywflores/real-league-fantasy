@@ -1,0 +1,257 @@
+gid,seas,wk,day,date,v,h,stad,surf
+5058,2019,1,THU,9/5/2019 20:20,GB,CHI,Soldier Field,Grass
+5059,2019,1,SUN,9/8/2019 13:00,ATL,MIN,U.S. Bank Stadium,UBU Speed Series S5M
+5060,2019,1,SUN,9/8/2019 13:00,BAL,MIA,Hard Rock Stadium,Platinum TE Paspalum
+5061,2019,1,SUN,9/8/2019 13:00,BUF,NYJ,MetLife Stadium,UBU Speed Series S5M
+5062,2019,1,SUN,9/8/2019 13:00,KC,JAC,TIAA Bank Field,Grass
+5063,2019,1,SUN,9/8/2019 13:00,LA,CAR,Bank of America Stadium,Grass
+5064,2019,1,SUN,9/8/2019 13:00,TEN,CLE,FirstEnergy Stadium,Grass
+5065,2019,1,SUN,9/8/2019 13:00,WAS,PHI,Lincoln Financial Field,DD GrassMaster
+5066,2019,1,SUN,9/8/2019 16:05,CIN,SEA,CenturyLink Field,FieldTurf
+5067,2019,1,SUN,9/8/2019 16:05,IND,LAC,Dignity Health Sports Park,Grass
+5068,2019,1,SUN,9/8/2019 16:25,DET,ARI,State Farm Stadium,Grass
+5069,2019,1,SUN,9/8/2019 16:25,NYG,DAL,AT&T Stadium,Hellas Matrix Turf
+5070,2019,1,SUN,9/8/2019 16:25,SF,TB,Raymond James Stadium,Grass
+5071,2019,1,SN,9/8/2019 20:20,PIT,NE,Gillette Stadium,FieldTurf
+5072,2019,1,MN,9/9/2019 19:10,HOU,NO,Mercedes-Benz Superdome,FieldTurf
+5073,2019,1,MN,9/9/2019 22:20,DEN,OAK,Oakland-Alameda County Coliseum,Grass
+5074,2019,2,THU,9/12/2019 20:20,TB,CAR,Bank of America Stadium,Grass
+5075,2019,2,SUN,9/15/2019 13:00,ARI,BAL,M&T Bank Stadium,Grass
+5076,2019,2,SUN,9/15/2019 13:00,BUF,NYG,MetLife Stadium,UBU Speed Series S5M
+5077,2019,2,SUN,9/15/2019 13:00,DAL,WAS,FedExField,Grass
+5078,2019,2,SUN,9/15/2019 13:00,IND,TEN,Nissan Stadium,Grass
+5079,2019,2,SUN,9/15/2019 13:00,JAC,HOU,NRG Stadium,Hellas Matrix Turf
+5080,2019,2,SUN,9/15/2019 13:00,LAC,DET,Ford Field,FieldTurf
+5081,2019,2,SUN,9/15/2019 13:00,MIN,GB,Lambeau Field,DD GrassMaster
+5082,2019,2,SUN,9/15/2019 13:00,NE,MIA,Hard Rock Stadium,Platinum TE Paspalum
+5083,2019,2,SUN,9/15/2019 13:00,SF,CIN,Paul Brown Stadium,UBU Speed Series S5M
+5084,2019,2,SUN,9/15/2019 13:00,SEA,PIT,Heinz Field,Grass
+5085,2019,2,SUN,9/15/2019 16:05,KC,OAK,Oakland-Alameda County Coliseum,Grass
+5086,2019,2,SUN,9/15/2019 16:25,CHI,DEN,Broncos Stadium at Mile High,Grass
+5087,2019,2,SUN,9/15/2019 16:25,NO,LA,Los Angeles Memorial Coliseum,Grass
+5088,2019,2,SN,9/15/2019 20:20,PHI,ATL,Mercedes-Benz Stadium,FieldTurf
+5089,2019,2,MN,9/16/2019 20:15,CLE,NYJ,MetLife Stadium,UBU Speed Series S5M
+5090,2019,3,THU,9/19/2019 20:20,TEN,JAC,TIAA Bank Field,Grass
+5091,2019,3,SUN,9/22/2019 13:00,ATL,IND,Lucas Oil Stadium,Shaw Sports Momentum Pro
+5092,2019,3,SUN,9/22/2019 13:00,BAL,KC,Arrowhead Stadium,Grass
+5093,2019,3,SUN,9/22/2019 13:00,CIN,BUF,New Era Field,A Turf Titan
+5094,2019,3,SUN,9/22/2019 13:00,DEN,GB,Lambeau Field,DD GrassMaster
+5095,2019,3,SUN,9/22/2019 13:00,DET,PHI,Lincoln Financial Field,DD GrassMaster
+5096,2019,3,SUN,9/22/2019 13:00,MIA,DAL,AT&T Stadium,Hellas Matrix Turf
+5097,2019,3,SUN,9/22/2019 13:00,NYJ,NE,Gillette Stadium,FieldTurf
+5098,2019,3,SUN,9/22/2019 13:00,OAK,MIN,U.S. Bank Stadium,UBU Speed Series S5M
+5099,2019,3,SUN,9/22/2019 16:05,CAR,ARI,State Farm Stadium,Grass
+5100,2019,3,SUN,9/22/2019 16:05,NYG,TB,Raymond James Stadium,Grass
+5101,2019,3,SUN,9/22/2019 16:25,HOU,LAC,Dignity Health Sports Park,Grass
+5102,2019,3,SUN,9/22/2019 16:25,NO,SEA,CenturyLink Field,FieldTurf
+5103,2019,3,SUN,9/22/2019 16:25,PIT,SF,Levi's Stadium,Grass
+5104,2019,3,SN,9/22/2019 20:20,LA,CLE,FirstEnergy Stadium,Grass
+5105,2019,3,MN,9/23/2019 20:15,CHI,WAS,FedExField,Grass
+5106,2019,4,THU,9/26/2019 20:20,PHI,GB,Lambeau Field,DD GrassMaster
+5107,2019,4,SUN,9/29/2019 13:00,CAR,HOU,NRG Stadium,Hellas Matrix Turf
+5108,2019,4,SUN,9/29/2019 13:00,CLE,BAL,M&T Bank Stadium,Grass
+5109,2019,4,SUN,9/29/2019 13:00,KC,DET,Ford Field,FieldTurf
+5110,2019,4,SUN,9/29/2019 13:00,LAC,MIA,Hard Rock Stadium,Platinum TE Paspalum
+5111,2019,4,SUN,9/29/2019 13:00,NE,BUF,New Era Field,A Turf Titan
+5112,2019,4,SUN,9/29/2019 13:00,OAK,IND,Lucas Oil Stadium,Shaw Sports Momentum Pro
+5113,2019,4,SUN,9/29/2019 13:00,TEN,ATL,Mercedes-Benz Stadium,FieldTurf
+5114,2019,4,SUN,9/29/2019 13:00,WAS,NYG,MetLife Stadium,UBU Speed Series S5M
+5115,2019,4,SUN,9/29/2019 16:05,SEA,ARI,State Farm Stadium,Grass
+5116,2019,4,SUN,9/29/2019 16:05,TB,LA,Los Angeles Memorial Coliseum,Grass
+5117,2019,4,SUN,9/29/2019 16:25,JAC,DEN,Broncos Stadium at Mile High,Grass
+5118,2019,4,SUN,9/29/2019 16:25,MIN,CHI,Soldier Field,Grass
+5119,2019,4,SN,9/29/2019 20:20,DAL,NO,Mercedes-Benz Superdome,FieldTurf
+5120,2019,4,MN,9/30/2019 20:15,CIN,PIT,Heinz Field,Grass
+5121,2019,5,THU,10/3/2019 20:20,LA,SEA,CenturyLink Field,FieldTurf
+5122,2019,5,SUN,10/6/2019 13:00,ARI,CIN,Paul Brown Stadium,UBU Speed Series S5M
+5123,2019,5,SUN,10/6/2019 13:00,ATL,HOU,NRG Stadium,Hellas Matrix Turf
+5124,2019,5,SUN,10/6/2019 13:00,BAL,PIT,Heinz Field,Grass
+5125,2019,5,SUN,10/6/2019 13:00,BUF,TEN,Nissan Stadium,Grass
+5126,2019,5,SUN,10/6/2019 13:00,CHI,OAK,Tottenham Hotspur Stadium,Grass
+5127,2019,5,SUN,10/6/2019 13:00,JAC,CAR,Bank of America Stadium,Grass
+5128,2019,5,SUN,10/6/2019 13:00,MIN,NYG,MetLife Stadium,UBU Speed Series S5M
+5129,2019,5,SUN,10/6/2019 13:00,NE,WAS,FedExField,Grass
+5130,2019,5,SUN,10/6/2019 13:00,NYJ,PHI,Lincoln Financial Field,DD GrassMaster
+5131,2019,5,SUN,10/6/2019 13:00,TB,NO,Mercedes-Benz Superdome,FieldTurf
+5132,2019,5,SUN,10/6/2019 16:05,DEN,LAC,Dignity Health Sports Park,Grass
+5133,2019,5,SUN,10/6/2019 16:25,GB,DAL,AT&T Stadium,Hellas Matrix Turf
+5134,2019,5,SN,10/6/2019 20:20,IND,KC,Arrowhead Stadium,Grass
+5135,2019,5,MN,10/7/2019 20:15,CLE,SF,Levi's Stadium,Grass
+5136,2019,6,THU,10/10/2019 20:20,NYG,NE,Gillette Stadium,FieldTurf
+5137,2019,6,SUN,10/13/2019 09:30,CAR,TB,Tottenham Hotspur Stadium,Grass
+5138,2019,6,SUN,10/13/2019 13:00,CIN,BAL,M&T Bank Stadium,Grass
+5139,2019,6,SUN,10/13/2019 13:00,HOU,KC,Arrowhead Stadium,Grass
+5140,2019,6,SUN,10/13/2019 13:00,NO,JAC,TIAA Bank Field,Grass
+5141,2019,6,SUN,10/13/2019 13:00,PHI,MIN,U.S. Bank Stadium,UBU Speed Series S5M
+5142,2019,6,SUN,10/13/2019 13:00,SEA,CLE,FirstEnergy Stadium,Grass
+5143,2019,6,SUN,10/13/2019 13:00,WAS,MIA,Hard Rock Stadium,Platinum TE Paspalum
+5144,2019,6,SUN,10/13/2019 16:05,ATL,ARI,State Farm Stadium,Grass
+5145,2019,6,SUN,10/13/2019 16:05,SF,LA,Los Angeles Memorial Coliseum,Grass
+5146,2019,6,SUN,10/13/2019 16:25,DAL,NYJ,MetLife Stadium,UBU Speed Series S5M
+5147,2019,6,SUN,10/13/2019 16:25,TEN,DEN,Broncos Stadium at Mile High,Grass
+5148,2019,6,SN,10/13/2019 20:20,PIT,LAC,Dignity Health Sports Park,Grass
+5149,2019,6,MN,10/14/2019 20:15,DET,GB,Lambeau Field,DD GrassMaster
+5150,2019,7,THU,10/17/2019 20:20,KC,DEN,Broncos Stadium at Mile High,Grass
+5151,2019,7,SUN,10/20/2019 13:00,ARI,NYG,MetLife Stadium,UBU Speed Series S5M
+5152,2019,7,SUN,10/20/2019 13:00,HOU,IND,Lucas Oil Stadium,Shaw Sports Momentum Pro
+5153,2019,7,SUN,10/20/2019 13:00,JAC,CIN,Paul Brown Stadium,UBU Speed Series S5M
+5154,2019,7,SUN,10/20/2019 13:00,LA,ATL,Mercedes-Benz Stadium,FieldTurf
+5155,2019,7,SUN,10/20/2019 13:00,MIA,BUF,New Era Field,A Turf Titan
+5156,2019,7,SUN,10/20/2019 13:00,MIN,DET,Ford Field,FieldTurf
+5157,2019,7,SUN,10/20/2019 13:00,OAK,GB,Lambeau Field,DD GrassMaster
+5158,2019,7,SUN,10/20/2019 13:00,SF,WAS,FedExField,Grass
+5159,2019,7,SUN,10/20/2019 16:05,LAC,TEN,Nissan Stadium,Grass
+5160,2019,7,SUN,10/20/2019 16:25,BAL,SEA,CenturyLink Field,FieldTurf
+5161,2019,7,SUN,10/20/2019 16:25,NO,CHI,Soldier Field,Grass
+5162,2019,7,SN,10/20/2019 20:20,PHI,DAL,AT&T Stadium,Hellas Matrix Turf
+5163,2019,7,MN,10/21/2019 20:15,NE,NYJ,MetLife Stadium,UBU Speed Series S5M
+5164,2019,8,THU,10/24/2019 20:20,WAS,MIN,U.S. Bank Stadium,UBU Speed Series S5M
+5165,2019,8,SUN,10/27/2019 13:00,ARI,NO,Mercedes-Benz Superdome,FieldTurf
+5166,2019,8,SUN,10/27/2019 13:00,CIN,LA,Wembley Stadium,Grass
+5167,2019,8,SUN,10/27/2019 13:00,LAC,CHI,Soldier Field,Grass
+5168,2019,8,SUN,10/27/2019 13:00,NYG,DET,Ford Field,FieldTurf
+5169,2019,8,SUN,10/27/2019 13:00,NYJ,JAC,TIAA Bank Field,Grass
+5170,2019,8,SUN,10/27/2019 13:00,OAK,HOU,NRG Stadium,Hellas Matrix Turf
+5171,2019,8,SUN,10/27/2019 13:00,PHI,BUF,New Era Field,A Turf Titan
+5172,2019,8,SUN,10/27/2019 13:00,SEA,ATL,Mercedes-Benz Stadium,FieldTurf
+5173,2019,8,SUN,10/27/2019 13:00,TB,TEN,Nissan Stadium,Grass
+5174,2019,8,SUN,10/27/2019 16:05,CAR,SF,Levi's Stadium,Grass
+5175,2019,8,SUN,10/27/2019 16:25,CLE,NE,Gillette Stadium,FieldTurf
+5176,2019,8,SUN,10/27/2019 16:25,DEN,IND,Lucas Oil Stadium,Shaw Sports Momentum Pro
+5177,2019,8,SN,10/27/2019 20:20,GB,KC,Arrowhead Stadium,Grass
+5178,2019,8,MN,10/28/2019 20:15,MIA,PIT,Heinz Field,Grass
+5179,2019,9,THU,10/31/2019 20:20,SF,ARI,State Farm Stadium,Grass
+5180,2019,9,SUN,11/3/2019 09:30,HOU,JAC,Wembley Stadium,Grass
+5181,2019,9,SUN,11/3/2019 13:00,CHI,PHI,Lincoln Financial Field,DD GrassMaster
+5182,2019,9,SUN,11/3/2019 13:00,IND,PIT,Heinz Field,Grass
+5183,2019,9,SUN,11/3/2019 13:00,MIN,KC,Arrowhead Stadium,Grass
+5184,2019,9,SUN,11/3/2019 13:00,NYJ,MIA,Hard Rock Stadium,Platinum TE Paspalum
+5185,2019,9,SUN,11/3/2019 13:00,TEN,CAR,Bank of America Stadium,Grass
+5186,2019,9,SUN,11/3/2019 13:00,WAS,BUF,New Era Field,A Turf Titan
+5187,2019,9,SUN,11/3/2019 16:05,DET,OAK,Oakland-Alameda County Coliseum,Grass
+5188,2019,9,SUN,11/3/2019 16:05,TB,SEA,CenturyLink Field,FieldTurf
+5189,2019,9,SUN,11/3/2019 16:25,CLE,DEN,Broncos Stadium at Mile High,Grass
+5190,2019,9,SUN,11/3/2019 16:25,GB,LAC,Dignity Health Sports Park,Grass
+5191,2019,9,SN,11/3/2019 20:20,NE,BAL,M&T Bank Stadium,Grass
+5192,2019,9,MN,11/4/2019 20:15,DAL,NYG,MetLife Stadium,UBU Speed Series S5M
+5193,2019,10,THU,11/7/2019 20:20,LAC,OAK,Oakland-Alameda County Coliseum,Grass
+5194,2019,10,SUN,11/10/2019 13:00,ARI,TB,Raymond James Stadium,Grass
+5195,2019,10,SUN,11/10/2019 13:00,ATL,NO,Mercedes-Benz Superdome,FieldTurf
+5196,2019,10,SUN,11/10/2019 13:00,BAL,CIN,Paul Brown Stadium,UBU Speed Series S5M
+5197,2019,10,SUN,11/10/2019 13:00,BUF,CLE,FirstEnergy Stadium,Grass
+5198,2019,10,SUN,11/10/2019 13:00,CAR,GB,Lambeau Field,DD GrassMaster
+5199,2019,10,SUN,11/10/2019 13:00,DET,CHI,Soldier Field,Grass
+5200,2019,10,SUN,11/10/2019 13:00,KC,TEN,Nissan Stadium,Grass
+5201,2019,10,SUN,11/10/2019 13:00,NYG,NYJ,MetLife Stadium,UBU Speed Series S5M
+5202,2019,10,SUN,11/10/2019 16:05,MIA,IND,Lucas Oil Stadium,Shaw Sports Momentum Pro
+5203,2019,10,SUN,11/10/2019 16:25,LA,PIT,Heinz Field,Grass
+5204,2019,10,SN,11/10/2019 20:20,MIN,DAL,AT&T Stadium,Hellas Matrix Turf
+5205,2019,10,MN,11/11/2019 20:15,SEA,SF,Levi's Stadium,Grass
+5206,2019,11,THU,11/14/2019 20:20,PIT,CLE,FirstEnergy Stadium,Grass
+5207,2019,11,SUN,11/17/2019 13:00,ATL,CAR,Bank of America Stadium,Grass
+5208,2019,11,SUN,11/17/2019 13:00,BUF,MIA,Hard Rock Stadium,Platinum TE Paspalum
+5209,2019,11,SUN,11/17/2019 13:00,DAL,DET,Ford Field,FieldTurf
+5210,2019,11,SUN,11/17/2019 13:00,DEN,MIN,U.S. Bank Stadium,UBU Speed Series S5M
+5211,2019,11,SUN,11/17/2019 13:00,HOU,BAL,M&T Bank Stadium,Grass
+5212,2019,11,SUN,11/17/2019 13:00,JAC,IND,Lucas Oil Stadium,Shaw Sports Momentum Pro
+5213,2019,11,SUN,11/17/2019 13:00,NO,TB,Raymond James Stadium,Grass
+5214,2019,11,SUN,11/17/2019 13:00,NYJ,WAS,FedExField,Grass
+5215,2019,11,SUN,11/17/2019 16:05,ARI,SF,Levi's Stadium,Grass
+5216,2019,11,SUN,11/17/2019 16:25,CIN,OAK,Oakland-Alameda County Coliseum,Grass
+5217,2019,11,SUN,11/17/2019 16:25,NE,PHI,Lincoln Financial Field,DD GrassMaster
+5218,2019,11,SN,11/17/2019 20:20,CHI,LA,Los Angeles Memorial Coliseum,Grass
+5219,2019,11,MN,11/18/2019 20:15,KC,LAC,Azteca Stadium,Grass
+5220,2019,12,THU,11/21/2019 20:20,IND,HOU,NRG Stadium,Hellas Matrix Turf
+5221,2019,12,SUN,11/24/2019 13:00,CAR,NO,Mercedes-Benz Superdome,FieldTurf
+5222,2019,12,SUN,11/24/2019 13:00,DEN,BUF,New Era Field,A Turf Titan
+5223,2019,12,SUN,11/24/2019 13:00,DET,WAS,FedExField,Grass
+5224,2019,12,SUN,11/24/2019 13:00,MIA,CLE,FirstEnergy Stadium,Grass
+5225,2019,12,SUN,11/24/2019 13:00,NYG,CHI,Soldier Field,Grass
+5226,2019,12,SUN,11/24/2019 13:00,OAK,NYJ,MetLife Stadium,UBU Speed Series S5M
+5227,2019,12,SUN,11/24/2019 13:00,PIT,CIN,Paul Brown Stadium,UBU Speed Series S5M
+5228,2019,12,SUN,11/24/2019 13:00,TB,ATL,Mercedes-Benz Stadium,FieldTurf
+5229,2019,12,SUN,11/24/2019 16:05,JAC,TEN,Nissan Stadium,Grass
+5230,2019,12,SUN,11/24/2019 16:25,DAL,NE,Gillette Stadium,FieldTurf
+5231,2019,12,SUN,11/24/2019 16:25,GB,SF,Levi's Stadium,Grass
+5232,2019,12,SN,11/24/2019 20:20,SEA,PHI,Lincoln Financial Field,DD GrassMaster
+5233,2019,12,MN,11/25/2019 20:15,BAL,LA,Los Angeles Memorial Coliseum,Grass
+5234,2019,13,THU,11/28/2019 12:30,CHI,DET,Ford Field,FieldTurf
+5235,2019,13,THU,11/28/2019 16:30,BUF,DAL,AT&T Stadium,Hellas Matrix Turf
+5236,2019,13,THU,11/28/2019 20:20,NO,ATL,Mercedes-Benz Stadium,FieldTurf
+5237,2019,13,SUN,12/1/2019 13:00,GB,NYG,MetLife Stadium,UBU Speed Series S5M
+5238,2019,13,SUN,12/1/2019 13:00,NYJ,CIN,Paul Brown Stadium,UBU Speed Series S5M
+5239,2019,13,SUN,12/1/2019 13:00,OAK,KC,Arrowhead Stadium,Grass
+5240,2019,13,SUN,12/1/2019 13:00,PHI,MIA,Hard Rock Stadium,Platinum TE Paspalum
+5241,2019,13,SUN,12/1/2019 13:00,SF,BAL,M&T Bank Stadium,Grass
+5242,2019,13,SUN,12/1/2019 13:00,TB,JAC,TIAA Bank Field,Grass
+5243,2019,13,SUN,12/1/2019 13:00,TEN,IND,Lucas Oil Stadium,Shaw Sports Momentum Pro
+5244,2019,13,SUN,12/1/2019 13:00,WAS,CAR,Bank of America Stadium,Grass
+5245,2019,13,SUN,12/1/2019 16:05,LA,ARI,State Farm Stadium,Grass
+5246,2019,13,SUN,12/1/2019 16:25,CLE,PIT,Heinz Field,Grass
+5247,2019,13,SUN,12/1/2019 16:25,LAC,DEN,Broncos Stadium at Mile High,Grass
+5248,2019,13,SN,12/1/2019 20:20,NE,HOU,NRG Stadium,Hellas Matrix Turf
+5249,2019,13,MN,12/2/2019 20:15,MIN,SEA,CenturyLink Field,FieldTurf
+5250,2019,14,THU,12/5/2019 20:20,DAL,CHI,Soldier Field,Grass
+5251,2019,14,SUN,12/8/2019 13:00,BAL,BUF,New Era Field,A Turf Titan
+5252,2019,14,SUN,12/8/2019 13:00,CAR,ATL,Mercedes-Benz Stadium,FieldTurf
+5253,2019,14,SUN,12/8/2019 13:00,CIN,CLE,FirstEnergy Stadium,Grass
+5254,2019,14,SUN,12/8/2019 13:00,DEN,HOU,NRG Stadium,Hellas Matrix Turf
+5255,2019,14,SUN,12/8/2019 13:00,DET,MIN,U.S. Bank Stadium,UBU Speed Series S5M
+5256,2019,14,SUN,12/8/2019 13:00,IND,TB,Raymond James Stadium,Grass
+5257,2019,14,SUN,12/8/2019 13:00,MIA,NYJ,MetLife Stadium,UBU Speed Series S5M
+5258,2019,14,SUN,12/8/2019 13:00,SF,NO,Mercedes-Benz Superdome,FieldTurf
+5259,2019,14,SUN,12/8/2019 13:00,WAS,GB,Lambeau Field,DD GrassMaster
+5260,2019,14,SUN,12/8/2019 16:05,LAC,JAC,TIAA Bank Field,Grass
+5261,2019,14,SUN,12/8/2019 16:25,KC,NE,Gillette Stadium,FieldTurf
+5262,2019,14,SUN,12/8/2019 16:25,PIT,ARI,State Farm Stadium,Grass
+5263,2019,14,SUN,12/8/2019 16:25,TEN,OAK,Oakland-Alameda County Coliseum,Grass
+5264,2019,14,SN,12/8/2019 20:20,SEA,LA,Los Angeles Memorial Coliseum,Grass
+5265,2019,14,MN,12/9/2019 20:15,NYG,PHI,Lincoln Financial Field,DD GrassMaster
+5266,2019,15,THU,12/12/2019 20:20,NYJ,BAL,M&T Bank Stadium,Grass
+5267,2019,15,SUN,12/15/2019 13:00,BUF,PIT,Heinz Field,Grass
+5268,2019,15,SUN,12/15/2019 13:00,CHI,GB,Lambeau Field,DD GrassMaster
+5269,2019,15,SUN,12/15/2019 13:00,DEN,KC,Arrowhead Stadium,Grass
+5270,2019,15,SUN,12/15/2019 13:00,HOU,TEN,Nissan Stadium,Grass
+5271,2019,15,SUN,12/15/2019 13:00,MIA,NYG,MetLife Stadium,UBU Speed Series S5M
+5272,2019,15,SUN,12/15/2019 13:00,NE,CIN,Paul Brown Stadium,UBU Speed Series S5M
+5273,2019,15,SUN,12/15/2019 13:00,PHI,WAS,FedExField,Grass
+5274,2019,15,SUN,12/15/2019 13:00,SEA,CAR,Bank of America Stadium,Grass
+5275,2019,15,SUN,12/15/2019 13:00,TB,DET,Ford Field,FieldTurf
+5276,2019,15,SUN,12/15/2019 16:05,CLE,ARI,State Farm Stadium,Grass
+5277,2019,15,SUN,12/15/2019 16:05,JAC,OAK,Oakland-Alameda County Coliseum,Grass
+5278,2019,15,SUN,12/15/2019 16:25,ATL,SF,Levi's Stadium,Grass
+5279,2019,15,SUN,12/15/2019 16:25,LA,DAL,AT&T Stadium,Hellas Matrix Turf
+5280,2019,15,SN,12/15/2019 20:20,MIN,LAC,Dignity Health Sports Park,Grass
+5281,2019,15,MN,12/16/2019 20:15,IND,NO,Mercedes-Benz Superdome,FieldTurf
+5282,2019,16,SUN,12/22/2019 13:00,BAL,CLE,FirstEnergy Stadium,Grass
+5283,2019,16,SUN,12/22/2019 13:00,BUF,NE,Gillette Stadium,FieldTurf
+5284,2019,16,SUN,12/22/2019 13:00,CAR,IND,Lucas Oil Stadium,Shaw Sports Momentum Pro
+5285,2019,16,SUN,12/22/2019 13:00,CIN,MIA,Hard Rock Stadium,Platinum TE Paspalum
+5286,2019,16,SUN,12/22/2019 13:00,DET,DEN,Broncos Stadium at Mile High,Grass
+5287,2019,16,SUN,12/22/2019 13:00,HOU,TB,Raymond James Stadium,Grass
+5288,2019,16,SUN,12/22/2019 13:00,JAC,ATL,Mercedes-Benz Stadium,FieldTurf
+5289,2019,16,SUN,12/22/2019 13:00,LA,SF,Levi's Stadium,Grass
+5290,2019,16,SUN,12/22/2019 13:00,NO,TEN,Nissan Stadium,Grass
+5291,2019,16,SUN,12/22/2019 13:00,NYG,WAS,FedExField,Grass
+5292,2019,16,SUN,12/22/2019 13:00,OAK,LAC,Dignity Health Sports Park,Grass
+5293,2019,16,SUN,12/22/2019 13:00,PIT,NYJ,MetLife Stadium,UBU Speed Series S5M
+5294,2019,16,SUN,12/22/2019 16:25,ARI,SEA,CenturyLink Field,FieldTurf
+5295,2019,16,SUN,12/22/2019 16:25,DAL,PHI,Lincoln Financial Field,DD GrassMaster
+5296,2019,16,SN,12/22/2019 20:20,KC,CHI,Soldier Field,Grass
+5297,2019,16,MN,12/23/2019 20:15,GB,MIN,U.S. Bank Stadium,UBU Speed Series S5M
+5298,2019,17,SUN,12/29/2019 13:00,ATL,TB,Raymond James Stadium,Grass
+5299,2019,17,SUN,12/29/2019 13:00,CHI,MIN,U.S. Bank Stadium,UBU Speed Series S5M
+5300,2019,17,SUN,12/29/2019 13:00,CLE,CIN,Paul Brown Stadium,UBU Speed Series S5M
+5301,2019,17,SUN,12/29/2019 13:00,GB,DET,Ford Field,FieldTurf
+5302,2019,17,SUN,12/29/2019 13:00,IND,JAC,TIAA Bank Field,Grass
+5303,2019,17,SUN,12/29/2019 13:00,LAC,KC,Arrowhead Stadium,Grass
+5304,2019,17,SUN,12/29/2019 13:00,MIA,NE,Gillette Stadium,FieldTurf
+5305,2019,17,SUN,12/29/2019 13:00,NO,CAR,Bank of America Stadium,Grass
+5306,2019,17,SUN,12/29/2019 13:00,NYJ,BUF,New Era Field,A Turf Titan
+5307,2019,17,SUN,12/29/2019 13:00,PHI,NYG,MetLife Stadium,UBU Speed Series S5M
+5308,2019,17,SUN,12/29/2019 13:00,PIT,BAL,M&T Bank Stadium,Grass
+5309,2019,17,SUN,12/29/2019 13:00,TEN,HOU,NRG Stadium,Hellas Matrix Turf
+5310,2019,17,SUN,12/29/2019 13:00,WAS,DAL,AT&T Stadium,Hellas Matrix Turf
+5311,2019,17,SUN,12/29/2019 16:25,ARI,LA,Los Angeles Memorial Coliseum,Grass
+5312,2019,17,SUN,12/29/2019 16:25,OAK,DEN,Broncos Stadium at Mile High,Grass
+5313,2019,17,SUN,12/29/2019 16:25,SF,SEA,CenturyLink Field,FieldTurf
